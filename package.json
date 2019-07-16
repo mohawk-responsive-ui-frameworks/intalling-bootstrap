@@ -1,0 +1,23 @@
+{
+  "name": "@mohawk/1-installing-bootstrap",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Exercise #1: Installing Bootstrap",
+  "scripts": {
+    "start": "http-server -o public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/mohawk-responsive-design-frameworks/1-installing-bootstrap.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://gitlab.com/mohawk-responsive-design-frameworks/1-installing-bootstrap/issues"
+  },
+  "homepage": "https://gitlab.com/mohawk-responsive-design-frameworks/1-installing-bootstrap#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
